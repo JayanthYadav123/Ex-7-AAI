@@ -1,8 +1,9 @@
-#### G .Jayanth.
-#### 212221230030.
-#### EX. NO.7
+<H3>NAME: G.Jayanth.</H3>
+<H3>REGISTER NO:212221230030</H3>
+<H3>EX. NO.7</H3>
+<H3>DATE: 28-04-2024</H3>
+<H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
-## Implementation of Text  Summarization</H1>
 ### Aim: 
 To perform automatic text summarization using Natural Language Processing (NLP) techniques.
 
