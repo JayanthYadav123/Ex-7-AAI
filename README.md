@@ -79,7 +79,12 @@ print(summary)
 
 ### Output
 
-![image](https://github.com/JayanthYadav123/Ex-7-AAI/assets/94836154/0828a5b0-d0e8-4c92-a699-2aec1eb28946)
+<img width="767" alt="image" src="https://github.com/JayanthYadav123/Ex-7-AAI/assets/94836154/e330e1ed-9e33-4050-a8bf-3d4b27789d15">
+<img width="452" alt="image" src="https://github.com/JayanthYadav123/Ex-7-AAI/assets/94836154/afaab599-f132-4e01-9a32-e4be8ad31832">
+<img width="871" alt="image" src="https://github.com/JayanthYadav123/Ex-7-AAI/assets/94836154/809fad9c-46fc-4411-a215-47249f1d8c0a">
+
+
+
 
 
 ### Result:
