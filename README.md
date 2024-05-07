@@ -79,7 +79,7 @@ print(summary)
 
 ### Output
 
-<img width="651" alt="image" src="https://github.com/JayanthYadav123/Ex-7-AAI/assets/94836154/15bec006-61ea-4535-ab7c-1178ce30c16d">
+![image](https://github.com/JayanthYadav123/Ex-7-AAI/assets/94836154/0828a5b0-d0e8-4c92-a699-2aec1eb28946)
 
 
 ### Result:
